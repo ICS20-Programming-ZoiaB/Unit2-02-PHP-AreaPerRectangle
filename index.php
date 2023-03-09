@@ -4,7 +4,7 @@
       
     <!-- Meta data -->
     <meta charset="utf-8">
-    <meta name="description" content="My first webpage, with JavaScript">
+    <meta name="description" content="My Area and Perimeter of a Rectangle in PHP">
     <meta name="keywords" content="immaculata, ics2o">
     <meta name="author" content="ZoiaB">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
